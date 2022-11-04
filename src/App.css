@@ -3,24 +3,21 @@ body{
   color: #383838;
 }
 
-.MyProfile{
-  width : 500px;
-  display: flex;
-  margin: 60px auto;
+img{
   border: solid 4px #383838;
   border-radius: 8px;
   background-color: rgb(234, 234, 234);
 }
 
-.MyProfile div{
-  display:initial;
-  margin-left: 40px;
+.MyProfile{
+  width : 680px;
+  margin: 60px auto;
 }
 
 p{
-  font-size: 20px;
+  font-size: 24px;
 }
 
 small{
-  font-size: 16px;
+  font-size: 20px;
 }

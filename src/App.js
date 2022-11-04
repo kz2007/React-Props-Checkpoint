@@ -2,7 +2,7 @@ import './App.css';
 import MyProfile from './/profile/profile.js';
 
 const MyProfilePhoto = "https://tabib.ae/uploads/profile/free-profile-photo-whatsapp-4_1617693292_1625640135.png"
-const ImageSize = {  width: "240px", height: "240px"}
+const ImageSize = {  width: "360px", height: "360px"}
 
 const ProfileImage = () =>
 {
