@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(242, 242, 242);
+  color: #383838;
+}
+
+.MyProfile{
+  width : 500px;
+  display: flex;
+  margin: 60px auto;
+  border: solid 4px #383838;
+  border-radius: 8px;
+  background-color: rgb(234, 234, 234);
+}
+
+.MyProfile div{
+  display:initial;
+  margin-left: 40px;
+}
+
+p{
+  font-size: 20px;
+}
+
+small{
+  font-size: 16px;
+}
